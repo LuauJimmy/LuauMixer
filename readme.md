@@ -1,4 +1,5 @@
 ﻿# LuauMixer
+[![.NET](https://github.com/LuauJimmy/LuauMixer/actions/workflows/dotnet.yml/badge.svg)](https://github.com/LuauJimmy/LuauMixer/actions/workflows/dotnet.yml)
 
 ## LuauMixer is an windows-only application that allows users to control the volume of their apps using hotkeys.
 
