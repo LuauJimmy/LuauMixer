@@ -6,7 +6,9 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+	<EnableWindowsTargeting>true</EnableWindowsTargeting>
   </PropertyGroup>
+	
 
   <ItemGroup>
     <PackageReference Include="CSCore" Version="1.2.1.2" />
